@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Daheng Wang"
-  avatar           : "profile.png"
+  avatar           : "desk.square.jpg"
   bio              : "Ph.D. candidate at the University of Notre Dame"
   location         : "Notre Dame, IN"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=KcHNH7kAAAAJ"
   email            : "dwang8@nd.edu"
   researchgate     :  "https://www.researchgate.net/profile/Daheng_Wang3"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/dahengwang/"
+  linkedin         : #"https://www.linkedin.com/in/dahengwang/"
   orcid            : "https://orcid.org/0000-0001-9474-952X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :

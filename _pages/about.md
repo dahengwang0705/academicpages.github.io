@@ -9,3 +9,6 @@ redirect_from:
 ---
 
 I am a Ph.D. candidate in the Department of Computer Science and Engineering, College of Engineering at the University of Notre Dame.
+
+News
+======
