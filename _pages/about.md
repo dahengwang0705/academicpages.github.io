@@ -14,6 +14,18 @@ Prior to ND, I received M.S. in Information Science from the [University of Pitt
 
 News
 =====
-* 2020.8: Received the Best Paper Award in the [International Workshop on Deep Learning on Graphs: Methods and Applications (KDD-DLG'20)](https://deep-learning-graphs.bitbucket.io/dlg-kdd20/)
-* 2020.8: Successfully defended my proposal "Learning Complementarity and Dynamics for Contextual Behavior Modeling"
-* 2020.6: Started internship at Amazon as an Applied Scientist Intern
+* 2020.8: Our paper entitled [Learning Complementarity and Dynamics for Contextual Behavior Modeling](http://www.meng-jiang.com/pubs/coevognns-dlg20/coevognns-dlg20-paper.pdf) received the **Best Paper Award** in the [International Workshop on Deep Learning on Graphs: Methods and Applications (KDD-DLG'20)](https://deep-learning-graphs.bitbucket.io/dlg-kdd20/).
+* 2020.8: Successfully defended my proposal entitled _Learning Complementarity and Dynamics for Contextual Behavior Modeling_.
+* 2020.6: Started internship at Amazon as an Applied Scientist Intern.
+* 2020.5: One paper on [behavior modeling](http://www.meng-jiang.com/pubs/calendargnn-kdd20/calendargnn-kdd20-paper.pdf) was accepted to KDD 2020.
+
+Recent publications
+=====
+
+Service
+=====
+* Conference PC/Reviewer: KDD, CIKM, WWW, WSDM, AAAI, IJCAI, etc.
+
+* Journal Reviewer: TKDE, TKDD, DMKD, etc.
+
+* Volunteer: ACM KDD Student Volunteer 2018, 2019, 2020.
