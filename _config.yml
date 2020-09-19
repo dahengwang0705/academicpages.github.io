@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daheng Wang (王达恒)"
+title                    : "Daheng Wang（王达恒）"
 title_separator          : "-"
 name                     : &name "Daheng Wang"
 description              : &description "Ph.D. candidate at the University of Notre Dame"
