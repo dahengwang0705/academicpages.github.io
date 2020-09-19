@@ -14,7 +14,7 @@ I work in areas of data mining and machine learning. My research focuses on comp
 
 News
 =====
-* 2020.8: Our paper [Learning Complementarity and Dynamics for Contextual Behavior Modeling](http://www.meng-jiang.com/pubs/coevognns-dlg20/coevognns-dlg20-paper.pdf) received the **Best Paper Award** in the [International Workshop on Deep Learning on Graphs: Methods and Applications (KDD-DLG'20)](https://deep-learning-graphs.bitbucket.io/dlg-kdd20/).
+* 2020.8: Our paper [Learning Attribute-Structure Co-Evolutions in Dynamic Graphs](http://www.meng-jiang.com/pubs/coevognns-dlg20/coevognns-dlg20-paper.pdf) received the **Best Paper Award** in the [International Workshop on Deep Learning on Graphs: Methods and Applications (KDD-DLG'20)](https://deep-learning-graphs.bitbucket.io/dlg-kdd20/).
 * 2020.8: Successfully defended my proposal entitled _Learning Complementarity and Dynamics for Contextual Behavior Modeling_.
 * 2020.6: Started internship at Amazon as an Applied Scientist Intern.
 * 2020.6: One paper on [complementarity learning](http://www.meng-jiang.com/pubs/tube-kdd19/tube-kdd19-paper.pdf) received the **Best Paper Award** in the [Annual Meeting of the International Society for Data Science and Analytics (ISDSA'20)](https://meeting.isdsa.org/index.php/isdsa/2020).
