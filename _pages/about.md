@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the [Department of Computer Science and Engineering](https://cse.nd.edu/), [College of Engineering](https://engineering.nd.edu/) at the [University of Notre Dame](https://www.nd.edu/). I am fortunate to be co-advised by [Dr. Meng Jiang](http://www.meng-jiang.com/) and [Dr. Nitesh V. Chawla](https://niteshchawla.nd.edu/bio/). And, I am proud to be a member of the [DM2 Lab](http://www.meng-jiang.com/lab.html) and a member of the [DIAL Lab](https://www3.nd.edu/~dial/home/). Prior to ND, I received M.S. in Information Science from the [University of Pittsburgh](https://www.pitt.edu/).
+I am a Ph.D. candidate in the [Department of Computer Science and Engineering](https://cse.nd.edu/), [College of Engineering](https://engineering.nd.edu/) at the [University of Notre Dame](https://www.nd.edu/). I am fortunate to be co-advised by [Dr. Meng Jiang](http://www.meng-jiang.com/) and [Dr. Nitesh V. Chawla](https://niteshchawla.nd.edu/bio/). And, I am proud to be a member of the [DM2 Lab](http://www.meng-jiang.com/lab.html) and the [DIAL Lab](https://www3.nd.edu/~dial/home/). Prior to ND, I received M.S. in Information Science from the [University of Pittsburgh](https://www.pitt.edu/).
 
-I work in areas of data mining and machine learning. My research mainly focuses on computational behavior modeling. By leveraging the methodology of representation learning, I develop novel machine learning approaches for modeling the unqiue _complementarity_ property of contextual behaviors and capturing their temporal dynamics.
+I work in areas of data mining and machine learning. My research focuses on computational behavior modeling. By leveraging the methodology of representation learning, I develop novel machine learning approaches for modeling the unqiue _complementarity_ property of contextual behaviors and capturing their evolving temporal dynamics.
 
 News
 =====
