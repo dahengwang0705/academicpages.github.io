@@ -14,8 +14,8 @@ I work in areas of data mining and machine learning. My research focuses on comp
 
 News
 =====
-* 2021.1: One paper on [GNN for Web table interpretation](https://dahengwang0705.github.io/) was accepted to [TheWebConf 2021](https://www2021.thewebconf.org/).
-* 2020.10: One paper on [graph embedding behavior modeling](https://web.ntpu.edu.tw/~myday/doc/ASONAM2020/ASONAM2020_Proceedings/pdf/papers/006_038_032.pdf) was accepted to [ASONAM 2020](http://asonam.cpsc.ucalgary.ca/2020/).
+* 2021.1: One paper on [Web table GNN]() was accepted to [TheWebConf 2021](https://www2021.thewebconf.org/).
+* 2020.10: One paper on [behavior modeling](https://web.ntpu.edu.tw/~myday/doc/ASONAM2020/ASONAM2020_Proceedings/pdf/papers/006_038_032.pdf) was accepted to [ASONAM 2020](http://asonam.cpsc.ucalgary.ca/2020/).
 * 2020.8: Our paper [Learning Attribute-Structure Co-Evolutions in Dynamic Graphs](http://www.meng-jiang.com/pubs/coevognns-dlg20/coevognns-dlg20-paper.pdf) received the **Best Paper Award** in the [International Workshop on Deep Learning on Graphs: Methods and Applications (KDD-DLG'20)](https://deep-learning-graphs.bitbucket.io/dlg-kdd20/).
 * 2020.8: Successfully defended my proposal entitled _Learning Complementarity and Dynamics for Contextual Behavior Modeling_.
 * 2020.6: Started internship at Amazon as an Applied Scientist Intern.
@@ -24,7 +24,7 @@ News
 
 Recent Publications
 =====
-* **Daheng Wang**, Prashant Shiralkar, Colin Lockard, Binxuan Huang, Xin Luna Dong and Meng Jiang. [TCN: Table Convolutional Network for Web Table Interpretation](https://dahengwang0705.github.io/) _The Web Conference_ (**TheWebConf**), 2021.
+* **Daheng Wang**, Prashant Shiralkar, Colin Lockard, Binxuan Huang, Xin Luna Dong and Meng Jiang. [TCN: Table Convolutional Network for Web Table Interpretation]() _The Web Conference_ (**TheWebConf**), 2021.
 * Munira Syed, **Daheng Wang**, Meng Jiang, Oliver Conway, Vishal Juneja, Sriram Subramanian and Nitesh V. Chawla. [Overcoming Data Sparsity in Predicting User Characteristics from Behavior through Graph Embeddings](https://web.ntpu.edu.tw/~myday/doc/ASONAM2020/ASONAM2020_Proceedings/pdf/papers/006_038_032.pdf) _IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining_ (**ASONAM**), 2020.
 * **Daheng Wang**, Zhihan Zhang, Yihong Ma, Tong Zhao, Tianwen Jiang, Nitesh V. Chawla and Meng Jiang. [Learning Attribute-Structure Co-Evolutions in Dynamic Graphs.](http://www.meng-jiang.com/pubs/coevognns-dlg20/coevognns-dlg20-paper.pdf) _International Workshop on Deep Learning on Graphs: Methods and Applications_ (**DLG**) at _ACM SIGKDD International Conference on Knowledge Discovery and Data Mining_ (**KDD**), 2020. (**Best Paper Award**)
 <!-- * Tong Zhao, Chuchen Deng, Kaifeng Yu, Tianwen Jiang, **Daheng Wang** and Meng Jiang. [GNN-based Graph Anomaly Detection with Graph Anomaly Loss.](https://tzhao.io/files/papers/DLG20_GAL.pdf) _International Workshop on Deep Learning on Graphs: Methods and Applications_ (**DLG**) at _ACM SIGKDD International Conference on Knowledge Discovery and Data Mining_ (**KDD**), 2020. -->
@@ -37,8 +37,8 @@ Recent Publications
 
 Service
 =====
-* Conference PC/Reviewer: KDD, CIKM, WWW, WSDM, AAAI, IJCAI, etc.
+* Conference SPC/PC/Reviewer: KDD, CIKM, WWW, WSDM, AAAI, IJCAI, etc.
 
-* Journal Reviewer: TKDE, TKDD, DMKD, etc.
+* Journal Reviewer: TKDE, TKDD, DMKD, TOIS, TNNLS, etc.
 
-* Volunteer: ACM KDD Student Volunteer 2018, 2019, 2020.
+* Volunteer: ACM KDD Student Volunteer 2020, 2019, 2018.
