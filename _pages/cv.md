@@ -13,9 +13,9 @@ Please kindly find my [Curriculum Vitae](/files/CV-Daheng.pdf).
 
 Education
 ======
-* Ph.D. of Computer Science and Engineering, University of Notre Dame
+* Ph.D. in Computer Science and Engineering, University of Notre Dame
   * Aug. 2016 - Aug. 2021 (Expected)
-* M.S. of Science in Information Science, Univerisity of Pittsburgh
+* M.S. in Information Science, Univerisity of Pittsburgh
   * Aug. 2013 - April 2015 
 
 <!-- Work experience
