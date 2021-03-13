@@ -14,6 +14,7 @@ I work in areas of data mining and machine learning. My research focuses on comp
 
 News
 =====
+* 2021.3: Check our Github repositories: [DM2 @ Github](https://github.com/DM2-ND).
 * 2021.1: One paper on [Web table GNN](https://arxiv.org/pdf/2102.09460.pdf) was accepted to [TheWebConf 2021](https://www2021.thewebconf.org/).
 * 2020.10: One paper on [behavior modeling](https://web.ntpu.edu.tw/~myday/doc/ASONAM2020/ASONAM2020_Proceedings/pdf/papers/006_038_032.pdf) was accepted to [ASONAM 2020](http://asonam.cpsc.ucalgary.ca/2020/).
 * 2020.8: Our paper [Learning Attribute-Structure Co-Evolutions in Dynamic Graphs](http://www.meng-jiang.com/pubs/coevognns-dlg20/coevognns-dlg20-paper.pdf) received the **Best Paper Award** in the [International Workshop on Deep Learning on Graphs: Methods and Applications (KDD-DLG'20)](https://deep-learning-graphs.bitbucket.io/dlg-kdd20/).
